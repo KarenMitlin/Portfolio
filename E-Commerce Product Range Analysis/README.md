@@ -2,7 +2,8 @@
 E-Commerce Product Range Analysis
 </h1>
 <p align="center">
-<b>Please view the project <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/E-Commerce%20Product%20Range%20Analysis/E-Commerce%20Product%20Range%20Analysis.ipynb">here</a>.</b></p>
+  <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/E-Commerce%20Product%20Range%20Analysis/E-Commerce%20Product%20Range%20Analysis.ipynb">E-Commerce Product Range Analysis</a>&emsp;|&emsp;<a href="https://public.tableau.com/app/profile/karen.mitlin/viz/AverageDailyRevenuebyCategoryThroughouttheYear/Sheet1?publish=yes">Average Daily Revenue by Category Throughout the Year Dashboard</a>&emsp;|&emsp;<a href="">Project Presentation</a><br>
+</p>
 In this project we will analyze the store's product range by carrying out exploratory data analysis, analyzing the product range and formulating and testing statistical hypotheses.
 
 <h2>Project Description</h2>
