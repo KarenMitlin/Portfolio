@@ -2,7 +2,7 @@
 E-Commerce Product Range Analysis
 </h1>
 <p align="center">
-<b>Please view the project <a href="">here</a>.</b></p>
+<b>Please view the project <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/E-Commerce%20Product%20Range%20Analysis/E-Commerce%20Product%20Range%20Analysis.ipynb">here</a>.</b></p>
 In this project we will analyze the store's product range by carrying out exploratory data analysis, analyzing the product range and formulating and testing statistical hypotheses.
 
 <h2>Project Description</h2>
