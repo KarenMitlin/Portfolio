@@ -1,7 +1,10 @@
-<h1>
+<h1 align="center">
 E-Commerce Product Range Analysis
 </h1>
-In this project we perform a product range analysis using several data analysis methods such as seasonality, categorization and hypothesis testing. Please view the project <a href="">here</a>
+<p align="center">
+<b>Please view the project <a href="">here</a>.</b></p>
+In this project we will analyze the store's product range by carrying out exploratory data analysis, analyzing the product range and formulating and testing statistical hypotheses.
+
 <h2>Project Description</h2>
 <h3>Task:</h3>
 Analyze the store's product range.
