@@ -2,7 +2,7 @@
 Analyzing A/B Tests
 </h1>
 <p align="center">
- <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/E-Commerce%20Product%20Range%20Analysis/E-Commerce%20Product%20Range%20Analysis.ipynb">Project</a><br>
+ <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/Analyzing%20AB%20Tests/AB%20Testing.ipynb">Project</a><br>
 </p>
 In this project we will analyze two A/B tests that weren't done properly and coming to conclusions regarding the way they were performed.
 <h2>Project Description</h2>
