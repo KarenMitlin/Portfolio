@@ -3,7 +3,7 @@ This repository is a collection of projects from the Practicum100 by Yandex Data
 
 Subjects like: EDA, Bussiness Analytics, SQL, Dashboards, A/B Tests, Statistical Analysis, Data Visualization, Autamation, Supervised and Unsupervised ML and more are covered in these projects.
 
-You can access the projects below or through the folders above designated for each project
+You can access the projects below or see the original Jupyter Notebooks in the folders above designated for each project
 
 <h2>Projects</h2>
 <h3>E-Commerce Product Range Analysis</h3>
