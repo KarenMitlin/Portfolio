@@ -1,7 +1,7 @@
 <h1 align='center'>Portfolio- My Practicum100 Projects</h1>
 This repository is a collection of projects from the Practicum100 by Yandex Data Analysis course.
 
-Subjects like: EDA, Bussiness Analytics, SQL, Dashboards, A/B Tests, Statistical Analysis, Data Visualization, Autamation, Supervised and Unsupervised ML and more are covered in these projects.
+Subjects like: Exploritory Data Analysis (EDA), Business Analytics, PostgreSQL, Automation (Tableau Dashboards), A/B Tests, Statistical Analysis, Data Visualization (Maplotlib, Seaborn, Plotly), Supervised and Unsupervised Machine Learning and more are covered in these projects.
 
 You can access the projects below or see the original Jupyter Notebooks in the folders above designated for each project.
 
