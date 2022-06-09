@@ -25,3 +25,7 @@ In this project we will analyze trending videos on YouTube to determine what con
 - What video categories were trending last week?
 - How were they distributed among various regions?
 - What categories were especially popular in the United States?
+
+<h3>Investigating User Behavior</h3>
+ <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/Investigating%20User%20Behavior/Investigating%20User%20Behavior.ipynb">Project</a><br>
+In the first part of this project we will study the sales funnel. We will find out how users reach the purchase stage, how many users actually make it to this stage, how many get stuck at previous stages and which stages in particular. In the second part we will look at the results of an A/A/B test. There are 3 groups: 2 control groups and 1 test group which we will conduct statistical testing on.
