@@ -4,7 +4,7 @@ Investigating User Behavior
 <p align="center">
  <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/Investigating%20User%20Behavior/Investigating%20User%20Behavior.ipynb">Project</a><br>
 </p>
-In the first part of this project we will study the sales funnel. We will find out how users reach the purchase stage, how many users actually make it to this stage, how many get stuck at previous stages and which stages in particular. In the second part we will look at the results of an A/A/B test. There are 3 groups: 2 control groups and 1 test group which we will conduct statistical testing on.
+In the first part of this project we studied the sales funnel. We fond out how users reach the purchase stage, how many users actually make it to this stage, how many get stuck at previous stages and which stages in particular. In the second part we looked at the results of an A/A/B test. There are 3 groups: 2 control groups and 1 test group which we conducted statistical testing on.
 <h2>Project Description</h2>
 <h3>Task:</h3>
 investigate user behavior for a company's app.
