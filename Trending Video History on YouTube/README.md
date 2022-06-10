@@ -4,7 +4,7 @@ Trending Video History on YouTube
 <p align="center">
   <a href="https://public.tableau.com/app/profile/karen.mitlin/viz/Trending-VideoHistoryonYouTube/Dashboard1?publish=yes">Dashboard</a>&emsp;|&emsp;<a href="https://github.com/KarenMitlin/Portfolio-Practicum-Projects/files/8842335/Trending.Video.History.on.YouTube-.Presentation.pdf")>Presentation</a><br/>
 </p>
-In this project we will analyze trending videos on YouTube to determine what content deserves marketing attention. We will use Tableau to visualize our findings and answer these questions:
+In this project we analyzed trending videos on YouTube to determine what content deserves marketing attention. We used Tableau to visualize our findings and answered these questions:
 
 - What video categories were trending last week?
 - How were they distributed among various regions?
