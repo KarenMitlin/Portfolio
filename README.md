@@ -9,7 +9,7 @@ You can access the projects below or see the original Jupyter Notebooks in the f
 <h3>E-Commerce Product Range Analysis</h3>
  <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/E-Commerce%20Product%20Range%20Analysis/Decomposition.ipynb">Decomposition</a>&emsp;|&emsp;<a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/E-Commerce%20Product%20Range%20Analysis/E-Commerce%20Product%20Range%20Analysis.ipynb">Project</a>&emsp;|&emsp;<a href="https://public.tableau.com/app/profile/karen.mitlin/viz/AverageDailyRevenuebyCategoryThroughouttheYear/Sheet1?publish=yes">Dashboard</a>&emsp;|&emsp;<a href="https://github.com/KarenMitlin/Portfolio-Practicum-Projects/files/8817861/Final.Project-.Presentation.pdf">Presentation</a><br>
  In this project we analyzed the store's product range by carrying out exploratory data analysis, analyzing the product range and formulating and testing statistical hypotheses.
-<h3>Analyzing AB Tests</h3>
+<h3>Analyzing A/B Tests</h3>
 <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/Analyzing%20AB%20Tests/AB%20Testing.ipynb">Project</a><br>
 In this project we analyzed two A/B tests that weren't done properly and came to conclusions regarding the way they were performed.
 <h3>SQL Project</h3>
