@@ -14,7 +14,7 @@ You can access the projects below or see the original Jupyter Notebooks in the f
 In this project we analyzed two A/B tests that weren't done properly and came to conclusions regarding the way they were performed.
 <h3>SQL Project (PostgreSQL)</h3>
  <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/8c6c256c7929b3188d480df89f26bda61a53d839/SQL%20Project/SQL.ipynb">Project</a><br>
-In this project we used a database containing data on books, publishers, authors, customer ratings and reviews of books to identify the top publishers and best selling authors, and look at different aspects of the dataset.
+In this project we used a database containing data on books, publishers, authors, customer ratings and reviews of books to identify the top publishers and bestselling authors, and look at different aspects of the dataset.
 <h3>Machine Learning-Analyzing Churn Rate (Python)</h3>
   <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/Machine%20Learning-Analyzing%20Churn%20Rate/Machine%20Learning-Analyzing%20Churn%20Rate.ipynb">Project</a><br/>
 In this project studied the different aspects that effect the churn rate of customers in the gym chain "Model Fitness". We learned to predict the probability of churn (for the upcoming month) for each customer, drew up typical user portraits: selected the most outstanding groups, described their main features, drew basic conclusions and developed recommendations on how to improve customer service.
