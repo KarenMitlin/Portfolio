@@ -2,7 +2,7 @@
 <p align="center">
  <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/8c6c256c7929b3188d480df89f26bda61a53d839/SQL%20Project/SQL.ipynb">Project</a><br>
 </p>
-In this project we will use a database containing data on books, publishers, authors, customer ratings and reviews of books to look at different aspects of the dataset.
+In this project we used a database containing data on books, publishers, authors, customer ratings and reviews of books to look at different aspects of the dataset.
 <h2>Project Description</h2>
 <h3>Description of the data</h3>
 <b>'books':</b> Contains data on books-
