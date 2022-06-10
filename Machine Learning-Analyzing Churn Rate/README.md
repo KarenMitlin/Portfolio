@@ -4,8 +4,7 @@ Machine Learning-Analyzing Churn Rate
 <p align="center">
   <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/Machine%20Learning-Analyzing%20Churn%20Rate/Machine%20Learning-Analyzing%20Churn%20Rate.ipynb">Project</a><br/>
 </p>
-In this project we will study the different aspects that effect the churn rate of customers in the gym chain "Model Fitness". We will learn to predict the probability of churn (for the upcoming month) for each customer, draw up typical user portraits: select the most outstanding groups, describe their main features, draw basic conclusions and develop recommendations on how to improve customer service.
-
+In this project studied the different aspects that effect the churn rate of customers in the gym chain "Model Fitness". We learned to predict the probability of churn (for the upcoming month) for each customer, drew up typical user portraits: selected the most outstanding groups, described their main features, drew basic conclusions and developed recommendations on how to improve customer service.
 <h2>Project Description</h2>
 <h3>Task:</h3>
 
