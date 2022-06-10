@@ -2,7 +2,7 @@
 <p align="center">
  <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/8c6c256c7929b3188d480df89f26bda61a53d839/SQL%20Project/SQL.ipynb">Project</a><br>
 </p>
-In this project we used a database containing data on books, publishers, authors, customer ratings and reviews of books to identify the top publishers and best selling authors, and look at different aspects of the dataset.
+In this project we used a database containing data on books, publishers, authors, customer ratings and reviews of books to identify the top publishers and bestselling authors, and look at different aspects of the dataset.
 <h2>Project Description</h2>
 <h3>Task</h3>
 Identify the top publishers (possible suppliers), and best selling authors.
