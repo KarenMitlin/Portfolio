@@ -4,7 +4,7 @@ Analyzing A/B Tests
 <p align="center">
  <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/Analyzing%20AB%20Tests/AB%20Testing.ipynb">Project</a><br>
 </p>
-In this project we will analyze two A/B tests that weren't done properly and coming to conclusions regarding the way they were performed.
+In this project we analyzed two A/B tests that weren't done properly and came to conclusions regarding the way they were performed.
 <h2>Project Description</h2>
 <h3>Technical Description:</h3>
 
