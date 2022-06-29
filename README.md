@@ -18,7 +18,7 @@ In this project we used a database containing data on books, publishers, authors
 <h3>Machine Learning-Analyzing Churn Rate (Python)</h3>
   <a href="https://nbviewer.org/github/KarenMitlin/Portfolio-Practicum-Projects/blob/main/Machine%20Learning-Analyzing%20Churn%20Rate/Machine%20Learning-Analyzing%20Churn%20Rate.ipynb">Project</a><br/>
 In this project studied the different aspects that effect the churn rate of customers in the gym chain "Model Fitness". We learned to predict the probability of churn (for the upcoming month) for each customer, drew up typical user portraits: selected the most outstanding groups, described their main features, drew basic conclusions and developed recommendations on how to improve customer service.
-<h3>Trending Video History on YouTube (Python)</h3>
+<h3>Trending Video History on YouTube (Tableau)</h3>
  <a href="https://public.tableau.com/app/profile/karen.mitlin/viz/Trending-VideoHistoryonYouTube/Dashboard1?publish=yes">Dashboard</a>&emsp;|&emsp;<a href="https://github.com/KarenMitlin/Portfolio-Practicum-Projects/files/8842335/Trending.Video.History.on.YouTube-.Presentation.pdf")>Presentation</a><br/>
 In this project we analyzed trending videos on YouTube to determine what content deserves marketing attention. We used Tableau to visualize our findings and answered these questions:
 
